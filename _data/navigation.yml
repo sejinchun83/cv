@@ -1,4 +1,6 @@
 main:
+  - title: "Diary"
+    url: /diary/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
